@@ -11,5 +11,5 @@
 ## My Stats :
 
 #### :fire: GitHub Streak :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniilVdovin&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DaniilVdovin&theme=darcula&border_radius=20)](https://git.io/streak-stats)
 
