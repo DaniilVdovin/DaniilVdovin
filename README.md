@@ -9,6 +9,8 @@
 
 ---
 
-### :fire: My Stats :
+## My Stats :
+#### :fire: My Langs :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DaniilVdovin&theme=dark)](https://git.io/streak-stats)
+#### :fire: My Langs :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilVdovin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
