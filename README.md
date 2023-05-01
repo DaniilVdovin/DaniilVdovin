@@ -9,7 +9,7 @@
 
 <div align="center">
  
-  ![CodeWars](https://www.codewars.com/users/DaniilVdovin/badges/large)
+  [![CodeWars](https://www.codewars.com/users/DaniilVdovin/badges/large)](https://www.codewars.com/users/DaniilVdovin)
 
 #### :fire: GitHub Streak :fire:
 [![GitHub Streak](https://streak-stats.demolab.com?user=DaniilVdovin&theme=darcula&border_radius=20)](https://git.io/streak-stats)
