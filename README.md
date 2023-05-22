@@ -10,26 +10,37 @@
 <div align="center">
  
   [![CodeWars](https://www.codewars.com/users/DaniilVdovin/badges/large)](https://www.codewars.com/users/DaniilVdovin)
-#### :fire: GitHub Streak :fire:
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaniilVdovin&theme=darcula&border_radius=20)](https://git.io/streak-stats)
-
   
+</div>
 
-#### 🤯 Stats 🤯
-  
+<p align="center">
+  <a href="https://github.com/DaniilVdovin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilVdovin&theme=transparent" />
+  </a>
+  <a href="https://github.com/DaniilVdovin">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilVdovin&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/DaniilVdovin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilVdovin&theme=transparent" />
+  </a>
+  <a href="https://github.com/DaniilVdovin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilVdovin&theme=transparent" />
+  </a>
+  <a href="https://github.com/DaniilVdovin">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilVdovin&theme=transparent" />
+  </a>
+   <a href="https://github.com/DaniilVdovin">
+    <img src="https://github-profile-trophy.vercel.app/?username=DaniilVdovin&theme=transparent&column=5&margin-w=15&margin-h=15"/>
+  </a>
+</p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilVdovin&layout=donut-vertical&langs_count=10&hide=javascript,html,css,hlsl&theme=darcula&border_radius=20&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
 <div align="center">
   
 #### 🛒 Marketplaces 🛒
 
  [<img src="/google-play-badge.png" height="50">](https://play.google.com/store/apps/dev?id=4680159475815121969)[<img src="/AppGallery_bage.png" height="50">](https://appgallery.huawei.com/app/C103324329)[<img src="/RuStore.svg" height="50">](https://apps.rustore.ru/?devId=MwrWwt8NRX7qN9Eme6es5UEDqwur5%252FFg&appType=MAIN) 
 
-  <img src="https://komarev.com/ghpvc/?username=DaniilVdovin&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=DaniilVdovin&style=flat&color=blue" alt=""/>
 </div>
   
 
