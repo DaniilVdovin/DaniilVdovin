@@ -35,7 +35,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilVdovin&theme=transparent" />
   </a>
    <a href="https://github.com/DaniilVdovin">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaniilVdovin&theme=transparent&column=5&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DaniilVdovin&theme=onedark&column=4&margin-w=45&margin-h=45"/>
   </a>
 </p>
 
@@ -45,8 +45,19 @@
  
 #### 🛒 Marketplaces 🛒
 
- [<img src="/google-play-badge.png" height="50">](https://play.google.com/store/apps/dev?id=4680159475815121969)[<img src="/AppGallery_bage.png" height="50">](https://appgallery.huawei.com/app/C103324329)[<img src="/RuStore.svg" height="50">](https://apps.rustore.ru/?devId=MwrWwt8NRX7qN9Eme6es5UEDqwur5%252FFg&appType=MAIN) 
-
+ <p align="center"  style="padding:30px">
+    <a href="https://play.google.com/store/apps/dev?id=4680159475815121969"  style="margin:30px">
+      <img src="/google-play-badge.png" height="50"  style="margin:30"/>
+    </a>
+    <a href="https://appgallery.huawei.com/app/C103324329"  style="margin:30px">
+      <img src="/AppGallery_bage.png" height="50"  style="margin:30"/>
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://apps.rustore.ru/?devId=MwrWwt8NRX7qN9Eme6es5UEDqwur5%252FFg&appType=MAIN">
+      <img src="/RuStore.svg" height="50"  style="margin:30"/>
+    </a>  
+  </p>
   <img src="https://komarev.com/ghpvc/?username=DaniilVdovin&style=flat&color=blue" alt=""/>
 </div>
   
