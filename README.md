@@ -45,8 +45,8 @@
   
   | Organization | Certificate |
   |-|-|
-  | [Russian technological university MIREA](https://www.mirea.ru/) |<img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/d21b3ed8-bb96-40a5-b534-6d9156b28f02"           href="https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf">|
-  | [RUDN](https://www.rudn.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/07dd5f76-d6cb-43c2-ac47-bee90c92a014" href="https://stepik.org/certificate/66c7e3d38b3016189765f9927a7ee494e073744d.pdf"> |
+  | [Russian technological university MIREA](https://www.mirea.ru/) |<img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/d21b3ed8-bb96-40a5-b534-6d9156b28f02"           href="https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf"> <br> [PDF](https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf)|
+  | [RUDN](https://www.rudn.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/07dd5f76-d6cb-43c2-ac47-bee90c92a014"   href="https://stepik.org/certificate/66c7e3d38b3016189765f9927a7ee494e073744d.pdf"> <br> [PDF](https://stepik.org/certificate/66c7e3d38b3016189765f9927a7ee494e073744d.pdf)|
   
   </div>
 </details>
