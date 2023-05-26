@@ -40,12 +40,12 @@
 </p>
 
 <details>
-  <summary>Certificates</summary>
+  <summary><h2>🔥 Certificates</h2></summary>
   <div align="center">
   
   | Organization | Certificate |
   |-|-|
-  | Stepik |<img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/d21b3ed8-bb96-40a5-b534-6d9156b28f02"           href="https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf">|
+  | [Russian technological university MIREA](https://www.mirea.ru/) |<img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/d21b3ed8-bb96-40a5-b534-6d9156b28f02"           href="https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf">|
   
   </div>
 </details>
