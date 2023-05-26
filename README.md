@@ -49,6 +49,7 @@
   | [RUDN](https://www.rudn.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/07dd5f76-d6cb-43c2-ac47-bee90c92a014"> <br> [PDF](https://stepik.org/certificate/66c7e3d38b3016189765f9927a7ee494e073744d.pdf)|
   | [RUDN](https://www.rudn.ru/)  | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/cf47d465-95cd-407b-8582-f2084ec2c815"> <br> [PDF](https://stepik.org/certificate/d6a7937310f2eb17eb7bd570948822972ed2c48f.pdf)|
   | [Omsk State Technical University](https://www.omgtu.ru) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/735b6f28-3158-42ac-abbe-db650f474f04"> <br> [PDF](https://stepik.org/certificate/372dfc97cc6a0e382cdb9485b9bed4c56acb7876.pdf)|
+  | [proglib](https://proglib.io/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/003ac9f7-7396-45e6-8716-ce0e327818fc"> <br> [PDF](https://stepik.org/certificate/ce789bdaea714ddf0846a4b919a8c03da2e659f3.pdf) |
   </div>
 </details>
 
