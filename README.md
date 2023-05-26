@@ -49,6 +49,8 @@
 |  | Sochi branch of RUDN University<br>Sochi, www.rudn-sochi.ru/<br><br>Department for the development of digital technologies in educational processes<br><br>Development of software for automating the work processes of the institute's employees.<br>Development of algorithms optimization of tasks that require a lot of manual labor, data sorting, converters, message distribution.<br>Support for MMIS software modules, AUTO schedule, PLANS, workload, integrator.<br>Help, consultation of employees. |
 | August 2021 - January 2022 | **Programmer** |
 | 6 months | Sochi branch of RUDN University<br>Sochi, www.rudn-sochi.ru/<br><br>Site support, administration of EIOS modules. Work with the team, administration of the portal, development of application programs for automating the workflow, support for the local server of the enterprise. |
+| June 2020 - June 2021 | Military |
+| 1 year |  |
 | January 2019 - June 2020 | **Computer Center Laboratory Assistant** |
 | 1 year 6 months | Sochi branch of RUDN University<br>Sochi, www.rudn-sochi.ru/<br><br>Working with the team, supporting the portal, moderating applications for those. support, tech. provision of classrooms, PC assembly/repair, maintenance of a news site, installation of network equipment, laying of twisted pair. Support for video surveillance systems, support for the local server of the enterprise. |
   
