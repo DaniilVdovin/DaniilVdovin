@@ -40,6 +40,13 @@
   </a>
 </p>
 
+
+<div align="center">
+
+  [![CodeWars](https://www.codewars.com/users/DaniilVdovin/badges/large)](https://www.codewars.com/users/DaniilVdovin)
+
+</div>
+
 <details>
   <summary><h2>🔥 Certificates</h2></summary>
   <div align="center">
@@ -54,10 +61,10 @@
   </div>
 </details>
 
-<div align="center">
-
-  [![CodeWars](https://www.codewars.com/users/DaniilVdovin/badges/large)](https://www.codewars.com/users/DaniilVdovin)
- 
+<details>
+   <summary><h2>🏢 Experience in</h2></summary>
+    <div align="center">
+      
 |  |  |
 |---|---|
 | January 2022 - present | **Lead coder** |
@@ -68,7 +75,9 @@
 | 1 year |  |
 | January 2019 - June 2020 | **Computer Center Laboratory Assistant** |
 | 1 year 6 months | Sochi branch of RUDN University<br>Sochi, www.rudn-sochi.ru/<br><br>Working with the team, supporting the portal, moderating applications for those. support, tech. provision of classrooms, PC assembly/repair, maintenance of a news site, installation of network equipment, laying of twisted pair. Support for video surveillance systems, support for the local server of the enterprise. |
-  
+
+  </div>
+</details>
   
 #### 🛒 Marketplaces 🛒
 
