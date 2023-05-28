@@ -1,11 +1,10 @@
-<div align="center"> 
   
 ### Languages
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/DaniilVdovin)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/DaniilVdovin)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DaniilVdovin)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/DaniilVdovin)
-
+  
 ### Technologies & Frameworks
 [![WPF](https://img.shields.io/badge/wpf-black?style=for-the-badge&logo=csharp)](https://github.com/DaniilVdovin)
 [![ASP](https://img.shields.io/badge/ASP.Net-black?style=for-the-badge&logo=csharp)](https://github.com/DaniilVdovin)
@@ -17,7 +16,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/DaniilVdovin)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/DaniilVdovin)
 
-</div>
+
 
 <p align="center">
   <a href="https://github.com/DaniilVdovin">
