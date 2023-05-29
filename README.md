@@ -16,22 +16,27 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/DaniilVdovin)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/DaniilVdovin)
 
+<p align="center">
+  <a href="https://github.com/DaniilVdovin">
+    <img src="https://skillicons.dev/icons?i=git,docker,androidstudio,arduino,blender,cs,dotnet,idea,py,stackoverflow,sketchup,unity,visualstudio,vscode" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DaniilVdovin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilVdovin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilVdovin&theme=transparent"/>
   </a>
   <a href="https://github.com/DaniilVdovin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilVdovin&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilVdovin&hide_border=true&card_width=338&theme=transparent"/>
   </a>
   <a href="https://github.com/DaniilVdovin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilVdovin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniilVdovin&theme=transparent"/>
   </a>
   <a href="https://github.com/DaniilVdovin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilVdovin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaniilVdovin&theme=transparent"/>
   </a>
   <a href="https://github.com/DaniilVdovin">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilVdovin&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaniilVdovin&theme=transparent"/>
   </a>
    <a href="https://github.com/DaniilVdovin">
     <img src="https://github-profile-trophy.vercel.app/?username=DaniilVdovin&theme=onedark&column=4&margin-w=45&margin-h=45"/>
