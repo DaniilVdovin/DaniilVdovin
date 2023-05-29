@@ -17,7 +17,6 @@
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/DaniilVdovin)
 
 
-
 <p align="center">
   <a href="https://github.com/DaniilVdovin">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaniilVdovin&theme=transparent" />
