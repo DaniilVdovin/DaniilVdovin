@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/DaniilVdovin">
-    <img src="https://skillicons.dev/icons?i=git,docker,androidstudio,arduino,blender,cs,dotnet,idea,py,stackoverflow,sketchup,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=docker,androidstudio,arduino,blender,cs,dotnet,idea,py,stackoverflow,sketchup,unity,visualstudio,vscode" />
   </a>
 </p>
 
