@@ -53,6 +53,18 @@
 </div>
 
 <details>
+  <summary><h2>🏅 Achievements</h2></summary>
+  
+- 🖥️ Developer of software included in the register of programs of the Russian Federation
+- 🏅 Winner of the Moscow Exchange hackathon (MOEX) Go.Algo 2023 
+- 🎖️ At It-Start 2019: Winner in the nomination "Best Socially Oriented Project" 
+- 🫂 More than 10 achievements in volunteering in major events 
+- 🫂 More than 30 achievements in volunteering at events
+- 👨‍🎓 Achievement for actively promoting student initiatives 
+ 
+</details>
+
+<details>
   <summary><h2>🔥 Certificates</h2></summary>
   <div align="center">
   
