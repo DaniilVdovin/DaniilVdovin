@@ -56,6 +56,7 @@
   <summary><h2>🏅 Achievements</h2></summary>
   
 - 🖥️ Developer of software included in the register of programs of the Russian Federation
+- 📱 Developer of mobile applications with a total number of installations of more than 20 thousand
 - 🏅 Winner of the Moscow Exchange hackathon (MOEX) Go.Algo 2023 
 - 🎖️ At It-Start 2019: Winner in the nomination "Best Socially Oriented Project" 
 - 🫂 More than 10 achievements in volunteering in major events 
