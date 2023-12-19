@@ -72,7 +72,7 @@
   | Organization | Certificate |
   |-|-|
   | [MOEX Go.Algo](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/6be429fb-6300-42d1-be03-01322527a499">  <br> [PDF](https://github.com/DaniilVdovin/DaniilVdovin/blob/main/Certificate_2023-12-18_15_36_42.730Z.pdf)|
-  | [Russian technological university MIREA](https://www.mirea.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/e4d73aaa-dc2c-46da-be4e-926f146195e6"> <br> [PDF](https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf)|
+  | [Fundamentals of Bond Investing and Creating Coupon Yields](https://stepik.org/course/145151/syllabus) | <img width="500" alt="image" src="https://stepik.org/certificate/84963fd4add855f355d925fdbd7235a01b6ccd57.pdf"> <br> [PDF](https://stepik.org/certificate/84963fd4add855f355d925fdbd7235a01b6ccd57.pdf)|
   | [Russian technological university MIREA](https://www.mirea.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/e4d73aaa-dc2c-46da-be4e-926f146195e6"> <br> [PDF](https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf)|
   | [RUDN](https://www.rudn.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/07dd5f76-d6cb-43c2-ac47-bee90c92a014"> <br> [PDF](https://stepik.org/certificate/66c7e3d38b3016189765f9927a7ee494e073744d.pdf)|
   | [RUDN](https://www.rudn.ru/)  | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/cf47d465-95cd-407b-8582-f2084ec2c815"> <br> [PDF](https://stepik.org/certificate/d6a7937310f2eb17eb7bd570948822972ed2c48f.pdf)|
