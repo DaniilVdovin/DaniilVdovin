@@ -89,7 +89,7 @@
       
 |  |  |
 |---|---|
-| December 2023 - present | **Chief specialist Testing and configuration department Services for the implementation of digital projects in the field of automation of procurement activities** |
+| December 2023 - present | **Full-stack developer (middle)** **Chief specialist Testing and configuration department Services for the implementation of digital projects in the field of automation of procurement activities** |
 | --- | State budgetary institution of the Moscow region "Center for the Development of Digital Technologies"<br>Moscow region, https://maximum.mosreg.ru/<br><br>Development and modernization of information systems in the Moscow region.|
 | July 2023 - December 2023 | **Leading Specialist** |
 | 6 months | "Scientific and Technological University "Sirius"<br>Sirius, https://siriusuniversity.ru/<br><br>Department of digitalization of education<br><br>Development of software for automating the work processes of the institute's employees.<br>Development of algorithms optimization of tasks that require a lot of manual labor, data sorting, converters, message distribution.<br>Support for Tandem software modules.<br>Help, consultation of employees. |
