@@ -106,10 +106,11 @@
 </details>
 
  <div align="center">
-  
+<!--  
 #### 🛒 Marketplaces 🛒
-
+-->
  <p align="center"  style="padding:30px">
+   <!--
     <a href="https://play.google.com/store/apps/dev?id=4680159475815121969"  style="margin:30px">
       <img src="/google-play-badge.png" height="50"  style="margin:30"/>
     </a>
@@ -122,7 +123,9 @@
       <img src="/RuStore.svg" height="50"  style="margin:30"/>
     </a>  
   </p>
+   -->
   <img src="https://komarev.com/ghpvc/?username=DaniilVdovin&style=flat&color=blue" alt=""/>
 </div>
+
   
 
