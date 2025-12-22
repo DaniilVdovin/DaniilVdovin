@@ -74,6 +74,7 @@
   
   | Organization | Certificate |
   |-|-|
+  | [Rostelecom](https://edupro.rt.ru/) | <img width="500" alt="image" src="https://github.com/user-attachments/assets/e21d4dc7-e26a-484c-b509-2a6b4073ffe3" /> <br> [PDF](https://github.com/DaniilVdovin/DaniilVdovin/blob/main/242061fa-3ed9-47e5-824e-f5c5f1431677.pdf) |
   | [MOEX Go.Algo](https://goalgo.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/6be429fb-6300-42d1-be03-01322527a499">  <br> [PDF](https://github.com/DaniilVdovin/DaniilVdovin/blob/main/Certificate_2023-12-18_15_36_42.730Z.pdf)|
   | [Fundamentals of Bond Investing and Creating Coupon Yields](https://stepik.org/course/145151/syllabus) | <img width="500" alt="image" src="https://stepik.org/certificate/84963fd4add855f355d925fdbd7235a01b6ccd57.pdf"> <br> [PDF](https://stepik.org/certificate/84963fd4add855f355d925fdbd7235a01b6ccd57.pdf)|
   | [Russian technological university MIREA](https://www.mirea.ru/) | <img width="500" alt="image" src="https://github.com/DaniilVdovin/DaniilVdovin/assets/45402557/e4d73aaa-dc2c-46da-be4e-926f146195e6"> <br> [PDF](https://stepik.org/certificate/9c7ddcd1f62aa7760706b8bddebbb244d85328c7.pdf)|
