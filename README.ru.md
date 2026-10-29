@@ -1,6 +1,6 @@
 # Даниил Вдовин — Senior Full-stack разработчик (C#/.NET, Angular)
-
-🇬🇧 [English](README.md) · 🇷🇺 [Русский](README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](README.ru.md)
 
 [Личный сайт](https://daniilvdovin.github.io/) · [CodeWars](https://www.codewars.com/users/DaniilVdovin)
 
