@@ -1,6 +1,6 @@
-# Daniil Vdovin — Senior Full-stack Developer (C#/.NET, Angular)
-
-🇬🇧 [English](README.md) · 🇷🇺 [Русский](README.ru.md)
+# Daniil Vdovin — Senior Full-stack Developer (C#/.NET, Angular) 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](README.ru.md)
 
 [Personal site](https://daniilvdovin.github.io/) · [CodeWars](https://www.codewars.com/users/DaniilVdovin)
 
